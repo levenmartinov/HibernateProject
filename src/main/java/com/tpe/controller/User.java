@@ -1,4 +1,4 @@
-package com.tpe.domain;
+package com.tpe.controller;
 
 import javax.persistence.*;
 

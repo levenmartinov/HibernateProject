@@ -30,8 +30,8 @@
         <property name="format_sql">true</property>
 
 
-        <mapping class="com.example.hibernateproject.User"/>
-        <!--        <mapping class="com.tpe.domain.Hotel"/>-->
+        <!--<mapping class="com.example.hibernateproject.User"/>
+        <!-        <mapping class="com.tpe.domain.Hotel"/>-->
         <!--        <mapping package="com.tpe.domain"/>-->
 
         <!--addAnnotatedClass metoduna gerek kalmaz-->

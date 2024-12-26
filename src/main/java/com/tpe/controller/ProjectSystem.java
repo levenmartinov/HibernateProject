@@ -1,6 +1,5 @@
 package com.tpe.controller;
 
-import com.tpe.domain.User;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
@@ -114,9 +113,11 @@ public class ProjectSystem {
 
             }
 
+
         } finally {
             factory.close();
         }
+
 
     }
 
